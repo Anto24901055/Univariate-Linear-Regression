@@ -39,6 +39,7 @@ pyplot.plot(x,y_per,color='black')
 pyplot.show()
 
 
+
 ```
 ## Output
 ![alt text](<Screenshot 2024-12-26 214924-1.png>)
