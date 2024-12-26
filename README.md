@@ -15,6 +15,12 @@ To implement univariate Linear Regression to fit a straight line using least squ
 6.	Obtain the straight line equation Y=mX+b and plot the scatterplot.
 ## Program
 ```
+/*
+Program to find the LU Decomposition of a matrix.
+Developed by: ANTO WILLIAMS S
+RegisterNumber: 24901055
+*/
+
 import numpy as np
 from matplotlib import pyplot
 x=np.array(eval(input()))
